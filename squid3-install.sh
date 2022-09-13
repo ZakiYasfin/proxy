@@ -85,5 +85,3 @@ else
     echo "Contact info@radwebhosting.com to add support for your os."
     exit 1;
 fi
-
-#/usr/bin/htpasswd -b -c /etc/squid/passwd USERNAME_HERE PASSWORD_HERE
